@@ -4,7 +4,7 @@ This is a library of GreenPAK SLG46826.
 
 ## Support Devices
 
-- [SLG46826](https://www.dialog-semiconductor.com/products/slg46826)
+- [SLG46826](https://www.renesas.com/us/en/products/programmable-mixed-signal-asic-ip-products/greenpak-programmable-mixed-signal-products/greenpak-system-programmability/slg46826-greenpak-programmable-mixed-signal-matrix-system-programmability)
 
 ## Usage
 ```c
